@@ -1,0 +1,5 @@
+classes = 1
+train  = /home/thinhhoang/Yolo_mark/train.txt
+valid  = /home/thinhhoang/Yolo_mark/train.txt
+names = home/thinhhoang/Yolo_mark/obj.names
+backup = backup/

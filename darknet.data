@@ -1,0 +1,6 @@
+classes = 1
+train  = /home/thinhhoang/Documents/LvThS/yolov3/snowman_train.txt
+valid  = /home/thinhhoang/Documents/LvThS/yolov3/snowman_test.txt
+names = /home/thinhhoang/Documents/LvThS/yolov3/classes.names
+backup = /home/thinhhoang/Documents/LvThS/yolov3/weights/
+
