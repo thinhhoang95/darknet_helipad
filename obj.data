@@ -1,5 +1,5 @@
 classes = 1
-train  = /home/thinhhoang/Yolo_mark/train.txt
-valid  = /home/thinhhoang/Yolo_mark/train.txt
-names = home/thinhhoang/Yolo_mark/obj.names
+train  = darknet_helipad/train.txt
+valid  = darknet_helipad/train.txt
+names = darknet_helipad/obj.names
 backup = backup/
